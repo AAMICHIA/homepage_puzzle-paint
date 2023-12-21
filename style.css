@@ -317,6 +317,13 @@ p{
     text-align: justify;
 }
 
+#image_avis{
+    list-style-type: none;
+    display: inline;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 /*                                              Vidéo                                                      */
 
 

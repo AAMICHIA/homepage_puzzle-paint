@@ -159,6 +159,25 @@ p{
     background-color: #eae0b7;
 }
 
+/*                                               Description du kit                                                        */
+
+
+#image_desc_kit_complet{
+    margin-left: 50px;
+    height: 500px;
+    width: 420px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+#desc_kit_complet_h2{
+    font-family: 'Chivo', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 280px;
+    color: rgb(28, 103, 63);
+}
+
+
 /*                                               Card                                                         */
 
 
@@ -225,7 +244,6 @@ p{
     font-weight: 700;
     font-size: 40px;
     padding-left: 400px;
-    margin-bottom: 80px;
     color: rgb(28, 103, 63);
 }
 
@@ -303,7 +321,8 @@ p{
 
 
 #video{
-    margin-left: 50px;
+    margin-left: 250px;
+    margin-bottom: 100px;
 }
 
 #video_inline{
@@ -316,8 +335,8 @@ p{
 }
 
 .desc_image{
-    height: 340px;
-    width: 550px;
+    height: 440px;
+    width: 650px;
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
 
 }
@@ -337,6 +356,7 @@ p{
 
 .desc_p{
     text-align: justify;
+    margin-bottom: 50px;
 }
 
 

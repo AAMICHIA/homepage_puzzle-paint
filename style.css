@@ -163,10 +163,11 @@ p{
 
 
 #image_desc_kit_complet{
-    margin-left: 50px;
-    height: 500px;
-    width: 420px;
+    margin-left: 200px;
+    height: 400px;
+    width: 700px;
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+    margin-bottom: 40px;
 }
 
 #desc_kit_complet_h2{
@@ -213,7 +214,7 @@ p{
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
     margin-bottom: 100px;
-    background-color: #eae0b7;
+    background-color: white;
 }
 
 
@@ -371,7 +372,6 @@ p{
 
 .desc_p{
     text-align: justify;
-    margin-bottom: 50px;
 }
 
 
@@ -413,12 +413,11 @@ p{
 
 
 
-@media(max-width: 1000px) {
+@media(max-width: 900px) {
     body{
         background-color: white;
         font-family: 'Chivo', sans-serif;
         font-weight: 500;
-        font-size: 8px;
         margin: 0;
     }
     
@@ -433,7 +432,6 @@ p{
     #pourquoi_acheter{
         font-family: 'Chivo', sans-serif;
         font-weight: 700;
-        font-size: 20px;
         padding-left: 50px;
         color: rgb(28, 103, 63);
         text-align: center;
@@ -449,12 +447,9 @@ p{
     }
 
     #video{
-        margin-left: 20px;
+        margin-left: 200px;
     }
 
-    #video{
-        margin-left: 20px;
-    }
 
     .desc_image{
         height: 340px;

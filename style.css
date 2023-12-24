@@ -343,7 +343,7 @@ p{
 
 
 #video{
-    margin-left: 150px;
+    margin-left: 350px;
     margin-bottom: 100px;
 }
 
@@ -456,13 +456,13 @@ p{
     }
 
     #video{
-        margin-left: 100px;
+        margin-left: 50px;
     }
 
 
     .desc_image{
         height: 640px;
-        width: 700px;
+        width: 850px;
         box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
     
     }

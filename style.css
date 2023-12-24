@@ -453,8 +453,8 @@ p{
 
 
     .desc_image{
-        height: 540px;
-        width: 750px;
+        height: 440px;
+        width: 650px;
         box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
     
     }
@@ -467,8 +467,8 @@ p{
     }
 
     #video{
-        margin-left: 50px;
         margin-bottom: 100px;
+        margin-left: 180px;
     }
 
     #image_desc_kit_complet{

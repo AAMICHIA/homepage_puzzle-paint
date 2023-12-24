@@ -475,7 +475,7 @@ p{
     }
 
     #video{
-        margin-left:    300px;
+        margin-left: 100px;
         margin-bottom: 100px;
     }
 
@@ -503,7 +503,7 @@ p{
     #pourquoi_acheter{
         font-family: 'Chivo', sans-serif;
         font-weight: 700;
-        font-size: 15px;
+        font-size: 17px;
         padding-left: 50px;
         color: rgb(28, 103, 63);
     }

@@ -33,14 +33,6 @@ p{
 /*                                               Partie entête                                                           */
 
 
-#banner_notre_produit{
-    margin-left: 110px;
-    margin-top: 30px;
-    grid-template-columns: 1fr 1fr;
-    display: inline;
-    grid-gap: 16px;
-    color: white;
-}
 
 
 #logo_agence{
@@ -456,7 +448,7 @@ p{
     }
 
     #video{
-        margin-left: 50px;
+        margin-left: 20px;
     }
 
 
@@ -511,7 +503,7 @@ p{
     #h2_avis_client{
         font-family: 'Chivo', sans-serif;
         font-weight: 700;
-        font-size: 40px;
+        font-size: 43px;
         padding-left: 300px;
         color: rgb(28, 103, 63);
         margin-bottom: 60px;
@@ -523,6 +515,14 @@ p{
         font-size: 40px;
         padding-left: 320px;
         color: rgb(28, 103, 63);
+    }
+
+    #banner_menu{
+        text-decoration: none;
+        margin-left: 230px;
+        grid-template-columns: 1fr 1fr ;
+        display: grid;
+        grid-gap: 100px;
     }
     
 }

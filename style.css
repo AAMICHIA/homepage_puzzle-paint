@@ -453,8 +453,8 @@ p{
 
 
     .desc_image{
-        height: 640px;
-        width: 850px;
+        height: 540px;
+        width: 750px;
         box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
     
     }
@@ -467,7 +467,7 @@ p{
     }
 
     #video{
-        margin-left: 100px;
+        margin-left: 50px;
         margin-bottom: 100px;
     }
 

@@ -481,6 +481,7 @@ p{
         padding-left: 50px;
         color: rgb(28, 103, 63);
         text-align: center;
+        font-size: 25px;
     }
     .desc_p{
         text-align: justify;
@@ -526,13 +527,13 @@ p{
 
     .client_p{
         text-align: justify;
-        font-size: 10px;
+        font-size: 13px;
     }
 
     #desc_kit_complet_h2{
         font-family: 'Chivo', sans-serif;
         font-weight: 700;
-        font-size: 20px;
+        font-size: 30px;
         margin-left: 300px;
         color: rgb(28, 103, 63);
     }
@@ -540,7 +541,7 @@ p{
     #pourquoi_acheter{
         font-family: 'Chivo', sans-serif;
         font-weight: 700;
-        font-size: 17px;
+        font-size: 20px;
         padding-left: 50px;
         color: rgb(28, 103, 63);
     }

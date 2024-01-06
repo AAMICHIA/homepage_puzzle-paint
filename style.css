@@ -166,7 +166,7 @@ p{
 
 .card-white-img_2{
     height: 300px;
-    width: 520px;
+    width: 450px;
     object-fit: cover;
 }
 
@@ -513,6 +513,16 @@ p{
         text-align: center;
         font-size: 25px;
     }
+
+    #differents_modeles{
+        font-family: 'Chivo', sans-serif;
+        font-weight: 700;
+        margin-left: 50px;
+        color: rgb(28, 103, 63);
+        text-align: center;
+        font-size: 25px;
+    }
+
     .desc_p{
         text-align: justify;
         font-size: 10px;
@@ -543,7 +553,7 @@ p{
     }
 
     #video{
-        margin-bottom: 100px;
+        margin-bottom: 70px;
         margin-left: 180px;
     }
 
@@ -557,7 +567,7 @@ p{
 
     .client_p{
         text-align: justify;
-        font-size: 13px;
+        font-size: 12px;
     }
 
     #desc_kit_complet_h2{

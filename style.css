@@ -151,6 +151,34 @@ p{
     background-color: #eae0b7;
 }
 
+/*                                               Différents modèles                                                        */
+
+
+#card_left{
+    margin-left:30px;
+}
+
+
+#card_right{
+    margin-right:30px;
+}
+
+
+.card-white-img_2{
+    height: 300px;
+    width: 520px;
+    object-fit: cover;
+}
+
+#differents_modeles{
+    font-family: 'Chivo', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 200px;
+    color: rgb(28, 103, 63);
+}
+
+
 /*                                               Description du kit                                                        */
 
 
@@ -200,6 +228,8 @@ p{
     width: 100%;
     object-fit: cover;
 }
+
+
   
 .cards{
     display: grid;

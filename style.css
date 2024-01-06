@@ -610,6 +610,11 @@ p{
         display: grid;
         grid-gap: 100px;
     }
+
+    p{
+        text-align: justify;
+        font-size:11px;
+    }
     
 }
 

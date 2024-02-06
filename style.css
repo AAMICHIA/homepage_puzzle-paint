@@ -1,6 +1,6 @@
 body{
     background-color: white;
-    font-family: 'Chivo', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
     font-weight: 500;
     font-size: clamp(11px,2vw,18px);
 }
@@ -166,6 +166,7 @@ p{
     margin-left: auto;
     color: rgb(28, 103, 63);
     text-align: center;
+    margin-top: 50px;
 }
 
 #inline_block{
@@ -193,7 +194,9 @@ p{
     font-weight: 700;
     font-size: clamp(25px,5vw,40px);
     color: rgb(28, 103, 63);
-    display: inline-block
+    display: inline-block;
+    margin-top: 50px;
+
 }
 
 
@@ -210,6 +213,7 @@ p{
 
 #container_card{
     width: 100%;
+    margin-bottom: 50px;
 }
 
 .container{
@@ -286,8 +290,9 @@ p{
     font-weight: 700;
     font-size: clamp(25px,5vw,40px);
     color: rgb(28, 103, 63);
-    margin-bottom: 60px;
     display: inline-block;
+    margin-top: 60px;
+
 }
 
 .card-white_client{
@@ -454,6 +459,7 @@ p{
 
 #container_video{
     text-align: center;
+    margin-bottom: 50px;
 }
 
 .container_client{

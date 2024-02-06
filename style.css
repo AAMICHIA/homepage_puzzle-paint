@@ -162,11 +162,11 @@ p{
 #differents_modeles{
     font-family: 'Chivo', sans-serif;
     font-weight: 700;
-    font-size: clamp(25px,5vw,40px);
+    font-size: clamp(18px,5vw,35px);
     margin-left: auto;
     color: rgb(28, 103, 63);
     text-align: center;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 #inline_block{
@@ -195,7 +195,7 @@ p{
     font-size: clamp(25px,5vw,40px);
     color: rgb(28, 103, 63);
     display: inline-block;
-    margin-top: 50px;
+    margin-top: 60px;
 
 }
 
@@ -291,7 +291,7 @@ p{
     font-size: clamp(25px,5vw,40px);
     color: rgb(28, 103, 63);
     display: inline-block;
-    margin-top: 60px;
+    margin-top: 70px;
 
 }
 

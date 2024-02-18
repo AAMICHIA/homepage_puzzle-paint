@@ -408,10 +408,15 @@ p{
 
 
 #card_left_client{
-    margin-left: 5px;
+    margin: 5px;
     width: 100%;
 }
 
+#card_left_yo{
+    margin: auto;
+    width: 55%;
+    margin-bottom: 80px;
+}
 
 
 /*                                              Vidéo                                                      */
@@ -533,6 +538,12 @@ p{
         flex-direction: column;
     }
     
+    #card_left_yo{
+        margin: auto;
+        margin-top: 20px;
+        width: 100%;
+        margin-bottom: 80px;
+    }
     
 
     .card-white{
@@ -572,11 +583,11 @@ p{
     }
 
     #card_right_client{
-        margin-right: 0px;
+        margin: auto;
     }
     
     #card_left_client{
-        margin-left: 0px;
+        margin: auto;
     }
     
     .image_desc_kit_complet{

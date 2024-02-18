@@ -216,7 +216,7 @@ p{
 #pourquoi_acheter{
     font-family: 'Chivo', sans-serif;
     font-weight: 700;
-    font-size: clamp(25px,5vw,40px);
+    font-size: clamp(15px,5vw,40px);
     color: rgb(28, 103, 63);
     text-align: center;
 }
@@ -224,6 +224,7 @@ p{
 #container_card{
     width: 100%;
     margin-bottom: 50px;
+    margin-top: 80px;
 }
 
 .container{
@@ -470,6 +471,7 @@ p{
 #container_video{
     text-align: center;
     margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .container_client{
